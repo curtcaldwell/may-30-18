@@ -54,3 +54,12 @@
 .hide {
   display: none;
 }
+body{
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.well{
+
+}
+.container-fluid{
+  text-align: center
+}
